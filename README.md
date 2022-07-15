@@ -1,10 +1,10 @@
 ----------  
-Author:		duguowei  
-Date:		2022-5-22  
-Email:		duguoweisz@gmail.com  
-Phone:		13417431640  
-WeChat:		dgw_cn  
-Kernel:		5.10.66  
+Author:   duguowei  
+Date:     2022-5-22  
+Email:    duguoweisz@gmail.com  
+Phone:    13417431640  
+WeChat:   dgw_cn  
+Kernel:   5.10.66  
 ----------  
 What is it ?  
 ----------  
